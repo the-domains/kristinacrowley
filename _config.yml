@@ -1,6 +1,6 @@
 name: Kristina Crowley
 favicon: null
-layout_spectrum: 0.92753
+layout_spectrum: 0.16895
 typography_spectrum: 0.52639
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.6178468624129891
   lightness: 0.9805561238899827
   saturation: 0.6875
-  rhythmicContrast: 0.8876320710405707
+  rhythmicContrast: 1
 purpose: []
