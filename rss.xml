@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kristina Crowley]]></title>
         <description><![CDATA[Kristina Crowley]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kristinacrowley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 17:38:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 17:46:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kristinacrowley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18a23ca0-aca3-4963-a5f5-ecb8bab19da2.jpg">]]></description>
+            <link>https://thegrid.ai/kristinacrowley/922b0234-ebb0-40c8-8106-03e0e6160da6/index.html</link>
+            <guid isPermaLink="false">922b0234-ebb0-40c8-8106-03e0e6160da6</guid>
+            <pubDate>Sun, 28 Feb 2016 17:46:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Motto For Life: I Will Not Live Vicariously Through Anyone Else... I Am Going to Live My Own Life to the Fullest</p>]]></description>
-            <link>undefinedc153e6c1-4b11-43df-b710-7ac8a483cbfc/index.html</link>
+            <link>https://thegrid.ai/kristinacrowley/c153e6c1-4b11-43df-b710-7ac8a483cbfc/index.html</link>
             <guid isPermaLink="false">c153e6c1-4b11-43df-b710-7ac8a483cbfc</guid>
             <pubDate>Sun, 28 Feb 2016 17:37:57 GMT</pubDate>
         </item>
